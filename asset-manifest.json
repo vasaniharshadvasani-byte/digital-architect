@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/digital-architect/static/css/main.94b99c15.css",
+    "main.js": "/digital-architect/static/js/main.94d34bb3.js",
+    "static/js/453.90106e9b.chunk.js": "/digital-architect/static/js/453.90106e9b.chunk.js",
+    "static/media/fin.png": "/digital-architect/static/media/fin.585a8dcf6a1252df8616.png",
+    "static/media/banner.png": "/digital-architect/static/media/banner.bee9fdeb7c061aa5a253.png",
+    "static/media/driven.png": "/digital-architect/static/media/driven.320925ae4f5f648b5ec0.png",
+    "static/media/PlusJakartaSans-ExtraLight.ttf": "/digital-architect/static/media/PlusJakartaSans-ExtraLight.a093ee237f0be6ac5080.ttf",
+    "static/media/PlusJakartaSans-SemiBold.ttf": "/digital-architect/static/media/PlusJakartaSans-SemiBold.11f1f61835cf783650a7.ttf",
+    "static/media/PlusJakartaSans-Light.ttf": "/digital-architect/static/media/PlusJakartaSans-Light.fd58c77f48ac2cc6243d.ttf",
+    "static/media/PlusJakartaSans-Medium.ttf": "/digital-architect/static/media/PlusJakartaSans-Medium.40d39dfea40d055dfdfd.ttf",
+    "static/media/PlusJakartaSans-ExtraBold.ttf": "/digital-architect/static/media/PlusJakartaSans-ExtraBold.e203288a2e16fdf8d871.ttf",
+    "static/media/PlusJakartaSans-Regular.ttf": "/digital-architect/static/media/PlusJakartaSans-Regular.3e7d5b677374ceab5b61.ttf",
+    "static/media/PlusJakartaSans-Bold.ttf": "/digital-architect/static/media/PlusJakartaSans-Bold.06c659ededfc9ba7716a.ttf",
+    "index.html": "/digital-architect/index.html",
+    "main.94b99c15.css.map": "/digital-architect/static/css/main.94b99c15.css.map",
+    "main.94d34bb3.js.map": "/digital-architect/static/js/main.94d34bb3.js.map",
+    "453.90106e9b.chunk.js.map": "/digital-architect/static/js/453.90106e9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b99c15.css",
+    "static/js/main.94d34bb3.js"
+  ]
+}
