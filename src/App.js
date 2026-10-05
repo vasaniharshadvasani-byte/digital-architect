@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 
 import Nav from "./component/nav";
 import Footer from "./component/footer";
@@ -15,28 +15,23 @@ import Contact from "./pages/contact";
 function App() {
   return (
     <>
-
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop />
         <Nav />
-      
 
         <Routes>
-
-          <Route path="/" element={<Home />}></Route>
-          <Route path="/about" element={<About />}></Route>
-          <Route path="/services" element={<Services />}></Route>
-          <Route path="/work" element={<Wrok />}></Route>
-          <Route path="/resume" element={<Resume />}></Route>
-          <Route path="/contact" element={<Contact />}></Route>
-
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/work" element={<Wrok />} />
+          <Route path="/resume" element={<Resume />} />
+          <Route path="/contact" element={<Contact />} />
+          {/* Default fallback route to always open Home page */}
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
 
         <Footer />
-
-
-      </BrowserRouter>
-
+      </HashRouter>
     </>
   );
 }
