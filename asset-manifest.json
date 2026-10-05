@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/digital-architect/static/css/main.94b99c15.css",
-    "main.js": "/digital-architect/static/js/main.94d34bb3.js",
+    "main.js": "/digital-architect/static/js/main.4e930500.js",
     "static/js/453.90106e9b.chunk.js": "/digital-architect/static/js/453.90106e9b.chunk.js",
     "static/media/fin.png": "/digital-architect/static/media/fin.585a8dcf6a1252df8616.png",
     "static/media/banner.png": "/digital-architect/static/media/banner.bee9fdeb7c061aa5a253.png",
@@ -15,11 +15,11 @@
     "static/media/PlusJakartaSans-Bold.ttf": "/digital-architect/static/media/PlusJakartaSans-Bold.06c659ededfc9ba7716a.ttf",
     "index.html": "/digital-architect/index.html",
     "main.94b99c15.css.map": "/digital-architect/static/css/main.94b99c15.css.map",
-    "main.94d34bb3.js.map": "/digital-architect/static/js/main.94d34bb3.js.map",
+    "main.4e930500.js.map": "/digital-architect/static/js/main.4e930500.js.map",
     "453.90106e9b.chunk.js.map": "/digital-architect/static/js/453.90106e9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94b99c15.css",
-    "static/js/main.94d34bb3.js"
+    "static/js/main.4e930500.js"
   ]
 }
